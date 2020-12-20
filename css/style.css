@@ -33,6 +33,14 @@ font-weight: 300;
 line-height: 1.2;
 margin: 10px 0 10px 0;
 }
+.codepic {
+    width:25vw;
+    margin: 0 auto;
+    height: 30vh;
+    border-radius: 10px;
+    position: relative;
+    left: 40rem;
+}
 
 h2 {
     font-weight: 300;
